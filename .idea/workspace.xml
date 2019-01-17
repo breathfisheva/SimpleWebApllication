@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c2e10ec-c189-44bf-a6fd-8f2b8e8d8ed1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,9 +24,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="612">
-                <caret line="42" selection-start-line="42" selection-end-line="42" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="575">
+                <caret line="65" selection-start-line="65" selection-end-line="65" />
               </first_editor>
               <second_editor />
             </state>
@@ -164,9 +163,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="612">
-            <caret line="42" selection-start-line="42" selection-end-line="42" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="575">
+            <caret line="65" selection-start-line="65" selection-end-line="65" />
           </first_editor>
           <second_editor />
         </state>
